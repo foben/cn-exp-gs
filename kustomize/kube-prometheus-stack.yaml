@@ -15,4 +15,4 @@ spec:
       version: 39.5.0
   interval: 1m0s
   timeout: 100m0s
-  targetNamespace: observability
+  targetNamespace: kprom
