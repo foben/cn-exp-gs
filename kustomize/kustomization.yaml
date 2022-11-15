@@ -5,5 +5,5 @@ resources:
   - deployment.yaml
   - service.yaml
   - prometheus-community-source.yaml
-    #- kube-prometheus-stack.yaml
+  - kube-prometheus-stack.yaml
 
